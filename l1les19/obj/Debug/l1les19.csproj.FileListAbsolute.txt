@@ -1,0 +1,6 @@
+c:\users\speedfire\level1\l1les19\l1les19\bin\Debug\l1les19.exe.config
+c:\users\speedfire\level1\l1les19\l1les19\bin\Debug\l1les19.exe
+c:\users\speedfire\level1\l1les19\l1les19\bin\Debug\l1les19.pdb
+c:\users\speedfire\level1\l1les19\l1les19\obj\Debug\l1les19.csprojResolveAssemblyReference.cache
+c:\users\speedfire\level1\l1les19\l1les19\obj\Debug\l1les19.exe
+c:\users\speedfire\level1\l1les19\l1les19\obj\Debug\l1les19.pdb
